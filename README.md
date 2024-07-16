@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ladwasainath&label=Profile%20views&color=0e75b6&style=flat" alt="ladwasainath" /> </p>
 
-- 🌱 I’m currently learning **Kafka, Docker, Hadoop**
+- 🌱 I’m currently learning **Kafka, Docker **
 
 - 📫 How to reach me **pgcet2300320@reva.edu.in**
 
