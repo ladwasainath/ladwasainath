@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kafka, Docker**
 
-- 📫 How to reach me **pgcet2300320@reva.edu.in**
+- 📫 How to reach me **sainathladwa321@gmail.com** **+918123222835**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
